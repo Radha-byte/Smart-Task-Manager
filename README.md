@@ -79,6 +79,8 @@ We welcome contributions to improve Smart Task Manager! To contribute:
 4. Push to the branch (git push origin feature/YourFeature).
 5. Open a Pull Request.
 
+Myself Radha Rani , You can contact me regarding any query.
+
 ## Acknowledgements
 1. React
 2. Node.js
