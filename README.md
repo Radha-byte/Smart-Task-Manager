@@ -72,14 +72,8 @@ Open your browser and navigate to http://localhost:3000 to start using the Smart
 4. Search: Use the search bar to find specific tasks quickly.
 
 ## Contributing
-We welcome contributions to improve Smart Task Manager! To contribute:
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature/YourFeature).
-3. Make your changes and commit them (git commit -am 'Add new feature').
-4. Push to the branch (git push origin feature/YourFeature).
-5. Open a Pull Request.
-
 Myself Radha Rani , You can contact me regarding any query.
+We welcome contributions to improve Smart Task Manager! To contribute.
 
 ## Acknowledgements
 1. React
